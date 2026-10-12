@@ -42,7 +42,7 @@ members = [
     "crates/window",
     "crates/theme",
     "crates/text-input",
-    "crates/mechanix-widgets",
+    "crates/mechanix-widgets", "examples/notifications",
 ]
 resolver = "3"
 
